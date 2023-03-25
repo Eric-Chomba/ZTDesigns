@@ -2,7 +2,7 @@ Codename One native Lib implementaton
 
 Consists:
 
-1. Custom TextFields - applied in FeaturesCN Input Fields menu
+1. Custom TextFields (Android like MaterialTextFields) - applied in FeaturesCN Input Fields menu
 
 2. Progress Animations 
     How to apply in CN1 ant project 
