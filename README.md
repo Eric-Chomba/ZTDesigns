@@ -12,7 +12,9 @@ Consists:
      
      Usage
    
-     ```import com.zt.designs.Anims;
+     ```
+     
+     import com.zt.designs.Anims;
      
      Form form = new Form("", new BorderLayout());
      
@@ -46,7 +48,9 @@ Consists:
 
      form.add(BorderLayout.CENTER, FlowLayout.encloseCenterMiddle(cnt));
      
-     form.show();```
+     form.show();
+
+```
 
 
 
