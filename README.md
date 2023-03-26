@@ -11,7 +11,8 @@ Consists:
      - Right click project and select Codename One then select Refresh cn1lib files
      
      Usage
-     import com.zt.designs.Anims;
+   
+     ```import com.zt.designs.Anims;
      
      Form form = new Form("", new BorderLayout());
      
@@ -45,7 +46,7 @@ Consists:
 
      form.add(BorderLayout.CENTER, FlowLayout.encloseCenterMiddle(cnt));
      
-     form.show();
+     form.show();```
 
 
 
