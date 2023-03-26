@@ -37,6 +37,7 @@ Consists:
 	 *  @param width - progress bar width
 	 *  @param bgColor - animation background color
 	 *  @param progressColor - progress bar color
+         *  @param indicatorColor - progress indicator color
 	 *  @param direction - progress direction (C - clockwise, A - anticlockwise)
 	 *  @param duration - animation duration in miliseconds to determine
 	 *  speed(the lower the duration the faster the progress speed)
