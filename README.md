@@ -55,10 +55,11 @@ Consists:
 
 See more animations
 
-[https://github.com/Eric-Chomba](https://github.com/Eric-Chomba)
+[Repos]
+(https://github.com/Eric-Chomba/)
 
-[https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/master/src/com/zomuhtech/cn/features/advft/Anim.java](
-https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/master/src/com/zomuhtech/cn/features/advft/Anim.java)
+[Anims]
+(https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/master/src/com/zomuhtech/cn/features/advft/Anim.java/)
 
 
 
