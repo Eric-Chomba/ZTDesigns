@@ -11,6 +11,7 @@ Consists:
      - Right click project and select Codename One then select Refresh cn1lib files
      
      Usage
+     
    
      ```
      
@@ -37,11 +38,11 @@ Consists:
 	 *  @param width - progress bar width
 	 *  @param bgColor - animation background color
 	 *  @param progressColor - progress bar color
-         *  @param indicatorColor - progress indicator color
+	 *  @param indicatorColor - progress indicator color
 	 *  @param direction - progress direction (C - clockwise, A - anticlockwise)
 	 *  @param duration - animation duration in miliseconds to determine
 	 *  speed(the lower the duration the faster the progress speed)
-	 */
+     */
    
      Anims.circleProgressIndicatorBar(formAnim, size, width, bgColor,
                 progressColor, indicatorColor, "C", 10);
@@ -50,15 +51,14 @@ Consists:
      form.add(BorderLayout.CENTER, FlowLayout.encloseCenterMiddle(cnt));
      
      form.show();
-
-```
-
+     
+     ```
+     
 See more animations
 
-[Repos](https://github.com/Eric-Chomba/)
+[https://github.com/Eric-Chomba/](https://github.com/Eric-Chomba/)
 
-[Animations](https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/master/src/com/zomuhtech/cn/features/advft/Anim.java/)
-
+[https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/master/src/com/zomuhtech/cn/features/advft/Anim.java/](https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/master/src/com/zomuhtech/cn/features/advft/Anim.java/)
 
 
 
