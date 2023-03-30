@@ -5,7 +5,9 @@ Consists:
 1. Custom TextFields (Android like MaterialTextFields) - applied in [FeaturesCN Input Fields menu](https://github.com/Eric-Chomba/FeaturesCN1-Ant/blob/c08e38e265a8091d2bbbe4d2db86392ff031d308/src/com/zomuhtech/cn/features/advft/UserInput.java#L188-L238) 
 
 2. Progress Animations 
+
     How to apply in CN1 ant project 
+    
      - Build to generate ZTDesigns.cn1lib in dist folder
      - Copy ZTDesigns.cn1lib in lib folder of your CN1 project
      - Right click project and select Codename One then select Refresh cn1lib files
